@@ -3,7 +3,7 @@
   "description": "Webcomponent gd-wc-navbar following open-wc recommendations",
   "license": "MIT",
   "author": "gd-wc-navbar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/src/index.js",
   "module": "dist/src/index.js",
   "exports": {
