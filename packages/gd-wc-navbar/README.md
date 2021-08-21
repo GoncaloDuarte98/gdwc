@@ -1,21 +1,21 @@
-# \<nav-bar>
+# \<gd-wc-navbar>
 
 This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
 ## Installation
 
 ```bash
-npm i nav-bar
+npm i gd-wc-navbar
 ```
 
 ## Usage
 
 ```html
 <script type="module">
-  import 'nav-bar/nav-bar.js';
+  import 'gd-wc-navbar/gd-wc-navbar.js';
 </script>
 
-<nav-bar></nav-bar>
+<gd-wc-navbar></gd-wc-navbar>
 ```
 
 ## Testing with Web Test Runner

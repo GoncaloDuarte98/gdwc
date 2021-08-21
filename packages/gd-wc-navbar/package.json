@@ -1,14 +1,14 @@
 {
-  "name": "nav-bar",
-  "description": "Webcomponent nav-bar following open-wc recommendations",
+  "name": "gd-wc-navbar",
+  "description": "Webcomponent gd-wc-navbar following open-wc recommendations",
   "license": "MIT",
-  "author": "nav-bar",
-  "version": "0.0.3",
+  "author": "gd-wc-navbar",
+  "version": "0.0.0",
   "main": "dist/src/index.js",
   "module": "dist/src/index.js",
   "exports": {
     ".": "./dist/src/index.js",
-    "./nav-bar.js": "./dist/src/nav-bar.js"
+    "./gd-wc-navbar.js": "./dist/src/gd-wc-navbar.js"
   },
   "scripts": {
     "analyze": "cem analyze --litelement",
@@ -30,6 +30,5 @@
     "tslib": "^2.3.1",
     "typescript": "^4.3.5"
   },
-  "customElements": "custom-elements.json",
-  "gitHead": "5801cb26fcf75d405a7c38e8c2e64237efb577ee"
+  "customElements": "custom-elements.json"
 }

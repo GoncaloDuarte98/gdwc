@@ -1,12 +1,12 @@
 import { html, css, LitElement } from 'lit';
 import { property } from 'lit/decorators.js';
 
-export class NavBar extends LitElement {
+export class GdWcNavbar extends LitElement {
   static styles = css`
     :host {
       display: block;
       padding: 25px;
-      color: var(--nav-bar-text-color, #000);
+      color: var(--gd-wc-navbar-text-color, #000);
     }
   `;
 
